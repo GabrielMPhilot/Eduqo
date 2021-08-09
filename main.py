@@ -516,7 +516,7 @@ O foco ( por enquanto ) será em cima do mal uso da plataforma.
 """
 
 expander_var = st.expander("Métricas de Variações -> (clique aqui 🖱️)")
-expander_var.write("(1) Escolas com quedas drásticas no número de alunos interagindo, pode ser algo de grande risco, porque mostra que a escola ou perdeu alunos, ou não está realizando boa parte de suas rotinas na plataforma. (2) Variações grandes na parte de subida de conteudos e interações dos alunos podem indicar, que a escola não está realizando toda sua rotina conosco ( então está realizando a onde? pode ser uma solução da concorrencia? ) indicando uma queda no valor enchergado na plataforma.")
+expander_var.write("(1) Escolas com quedas drásticas no número de alunos interagindo, pode ser algo de grande risco, porque mostra que a escola ou perdeu alunos, ou não está realizando boa parte de suas rotinas na plataforma. (2) Variações grandes na parte de subida de conteúdos e interações dos alunos podem indicar, que a escola não estão realizando toda sua rotina conosco ( então estão realizando onde? pode ser uma solução da concorrência? ) indicando uma queda no valor enchergado na plataforma.")
 expander_que = st.expander("Métricas de Questões -> (clique aqui 🖱️)")
 expander_que.write("(1) Escolas que utilizam pouco o banco não valorizam um de nossos principais diferenciais competitivos em relação ao Google Classroom, então pode ser uma questão perigosa para potenciais churns. (2) Baixo uso de questões discursivas pode significar uma baixa personalização do uso da plataforma. ")
 expander_rel = st.expander("Métricas de Relátorios -> (clique aqui 🖱️)")
