@@ -49,7 +49,7 @@ st.image('[LOGO] Eduqo.png')
 image = Image.open('[LOGO] Eduqo.png')
 st.sidebar.image(image,caption='Eduqo - Plataforma QMágico',use_column_width=True)
 
-st.sidebar.markdown('Feito por : Gabriel Philot (Tio Gibbs)')
+st.sidebar.markdown('Feito por: Gabriel Philot (Tio Gibbs)')
 st.sidebar.write('#### Material de apoio, caso queira saber mais sobre o projeto.')
 st.sidebar.write("###### Forms:  [link](https://docs.google.com/forms/d/e/1FAIpQLSfmUHHnNu8wiMH2W6UuBQS354UL25D_ZIDstYqvMj7bLSs4vA/viewform)")
 st.sidebar.write("##### Docs:  [link](https://docs.google.com/document/d/1bdASwpnSDREVDR0TwKtcvcxNL4AFz-xR5WSNNTa-hwM/edit#heading=h.7y5omgxvl8r1)")
@@ -70,8 +70,8 @@ Os dados utilizados foram segmentados (por enquanto) em 3 diferentes tabelas.
 """
 #### 1. Tabela de Variações:
 Essa tabela contempla dados de variação do n° de alunos, variação do n° A.A's subidas (proffs),
-variação do n° de interação de alunos em A.A's, variação do n° de conteudos em caderno subidos (proffs) e
-variação do n° de interação de alunos em conteudos do caderno. O intervalo de extração desses dados é de
+variação do n° de interação de alunos em A.A's, variação do n° de conteúdos em caderno subidos (proffs) e
+variação do n° de interação de alunos em conteúdos do caderno. O intervalo de extração desses dados é de
 dados de  **01/03/2020 até 01/08/2020 e  01/03/2021 até 01/08/2021**.
 
 #### 2. Tabela de Questões:
@@ -535,5 +535,5 @@ expander_rel.write("(1) Visualização de relatórios: Os nossos relatórios sã
 (3) - Automatização da geração de csv's para o GitHub
 """
 """
-(4) - Estátistica e Machine Learning para avaliar as correlações entre as váriaveis.
+(4) - Estatística e Machine Learning para avaliar as correlações entre as váriaveis.
 """
