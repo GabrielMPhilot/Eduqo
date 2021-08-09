@@ -53,6 +53,7 @@ st.sidebar.markdown('Feito por: Gabriel Philot (Tio Gibbs)')
 st.sidebar.write('#### Material de apoio, caso queira saber mais sobre o projeto.')
 st.sidebar.write("###### Forms:  [link](https://docs.google.com/forms/d/e/1FAIpQLSfmUHHnNu8wiMH2W6UuBQS354UL25D_ZIDstYqvMj7bLSs4vA/viewform)")
 st.sidebar.write("##### Docs:  [link](https://docs.google.com/document/d/1bdASwpnSDREVDR0TwKtcvcxNL4AFz-xR5WSNNTa-hwM/edit#heading=h.7y5omgxvl8r1)")
+st.sidebar.write("##### Github:  [link](https://github.com/GabrielMPhilot/Eduqo)")
 
 
 # Grande ideia
